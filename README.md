@@ -1,2 +1,3 @@
 # lita-hook-test
-Testing hooks for Lita
+Testing hooks for Lita.
+
